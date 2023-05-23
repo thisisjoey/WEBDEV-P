@@ -1,11 +1,11 @@
 {
   "dependencies": {
+    "ng": "^0.0.0",
     "typescript": "^5.0.4"
   },
   "name": "angular",
   "version": "1.0.0",
   "main": "index.js",
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
